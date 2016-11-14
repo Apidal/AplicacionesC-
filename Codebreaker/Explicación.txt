@@ -1,0 +1,4 @@
+CODEBREAKER
+
+Es un juego creado en C++, en el que tendremos que adivinar una secuencia de números.
+Tenemos 3 oportunidades para adivinar la secuencia de 4 números. Cuando elijamos una secuencia, el juego comprobará la similitud, comprobará el primer dígito, comenzando por la izquierda, y si coincide mostrará un "bip" y así sucesivamente hasta que encuentre un dígito que no coincida y mostrará "bop" y así podremos saber si vamos bien encaminados o no. La aplicación dará la posiblidad de crear una partida aleatoria creada por la máquina. Cuando se elige esta opción podremos elegir el nivel de "inteligencia" que queremos que tenga la máquina para jugar. La partida aleatoria quedará almacenada en un fichero de texto con el nombre que nosotros le indiquemos.

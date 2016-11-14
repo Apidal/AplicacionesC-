@@ -1,0 +1,9 @@
+COLORCRUSH
+
+Es una aplicación hecha en C++ con la que podremos jugar a una versión similiar del famoso juego CandyCrush.
+Consiste en ir eligiendo fila, columna y la dirección a mover para poder hacer grupos de colores y así conseguir la máxima puntuación.
+La puntuación dependerá del tamaño de los grupos que formemos. La aplicación al iniciarse nos pedirá un nombre de usuario, 
+que al finalizar la partida nos guardará la puntuación en un fichero de texto con ese nombre. En el caso de que el nombre ya existiera
+sumaría la nueva puntuación a la ya almacenada anteriormente. También nos permitirá salvar la partida para así poderla continuar
+más tarde. En el menú principal nos permitirá jugar una partida nueva, continuar una partida almacenada a medias, cargar algún tablero
+que tengamos creado por defecto o ver las puntuaciones almacenadas.

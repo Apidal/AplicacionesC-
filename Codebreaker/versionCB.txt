@@ -1,0 +1,16 @@
+  
+       |-----------------|
+       | ~ CODEBREAKER ~ |
+       |                 |
+       |    Creditos     |
+       |-----------------|
+
+Práctica 1 Version 3.02 (16/12/2013) 
+ 
+Fundamentos de la Programación  
+Facultad de Informática 
+Universidad Complutense de Madrid 
+ 
+Autor:  
+  Alejandro Pidal Gallego 
+

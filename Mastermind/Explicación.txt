@@ -1,0 +1,9 @@
+MASTERMIND
+
+Reproducción del famoso juego creado en C++ en el que hay que adivinar una secuencia de letras.
+El juego elegirá aleatoreamente una secuencia de letras y nosotros tendremos que adivinarla. El programa cuando indiquemos una 
+secuencia nos indicará el número de letras que hemos puesto en su posición correcta, el número de letras que están en la secuencia,
+pero que no hemos puesto en su lugar correcto y la puntuación que llevamos acumulada. El juego también nos ofrecerá la posibilidad
+de darnos una pista para poder acertar la secuencia. Si escribimos el símbolo de interrogación se nos mostrará por pantalla un pequeño
+texto explicativo del juego que estará almacenado en un fichero de texto. Al finalizar la partida almacenará la puntuación con el 
+nombre con el que nos hayamos registrado al principio. En el menú principal nos dará la posibilidad de ver las puntuaciones almacenadas.

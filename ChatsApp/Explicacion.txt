@@ -1,0 +1,7 @@
+CHATSAPP
+
+Es una aplicación creada en C++. Permite poder hablar con otros usuarios de modo offline.
+Se tiene que ejecutar en la misma carpeta donde se encuentre el archivo "usuarios.txt", que es donde se encuentran "registrados"
+los usuarios que podrán crear chats. Cuando crea un chat con alguien y le envia mensajes, esos mensajes quedarán almacenados en
+un fichero de texto que hará de servidor de mensajes. Cuando el usuario receptor inicie la aplicación recibirá los mensajes que
+le han sido enviados desde cualquier usuario.

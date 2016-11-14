@@ -1,0 +1,5 @@
+Tienes que adivinar el codigo secreto en un numero limitado de intentos.
+Introduce codigos de colores (R=Rojo;A=Azul;V=Verde;N=Negro;G=Granate;M=Marron)
+Veras cuantos estan en su lugar y cuales en otro lugar.
+Puedes solicitar un numero limitado de pistas introduciendo !.
+xxx
